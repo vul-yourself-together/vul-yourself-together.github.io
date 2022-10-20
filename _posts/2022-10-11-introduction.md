@@ -1,7 +1,9 @@
+---
 layout: post
-title: "Introduction"
+title: "introduction"
 date: 2022-10-11 21:32:42 -0000
 categories: CATEGORY-1 CATEGORY-2
+---
 
 ## Introduction
 
