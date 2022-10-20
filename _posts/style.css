@@ -1,6 +1,8 @@
-    body {
+body {
         font-family: sans-serif;
         color: #222;
+		  margin-left: 50px;
+		  margin-right: 1000px;
     }
 
 h1, h2, h3 {
@@ -51,17 +53,30 @@ h1, h2, h3 {
         border-top: 2px solid rebeccapurple;
     }
 
-    blockquote {
-        background: linear-gradient(45deg, #eddbff, transparent);
-        color: rebeccapurple;
-        margin-left: 0;
-        margin-right: 0;
-        padding: 1em;
-        border-radius: 4px;
-    }
-
     .img--align-left {
       float: left; /* replaces the style previously inherited by the browser */
       margin: 0 16px 16px 0;
     }
 
+blockquote {
+  background: #f9f9f9;
+  border-left: 10px solid #ccc;
+  margin: 1.5em 10px;
+  padding: 0.5em 10px;
+  quotes: "\201C""\201D""\2018""\2019";
+}
+blockquote:before {
+  color: #ccc;
+  content: open-quote;
+  font-size: 4em;
+  line-height: 0.1em;
+  margin-right: 0.25em;
+  vertical-align: -0.4em;
+}
+blockquote p {
+  display: inline;
+}
+
+ol {
+	line-height: 30px;
+}
