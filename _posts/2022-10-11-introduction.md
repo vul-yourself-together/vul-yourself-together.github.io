@@ -9,7 +9,7 @@ categories: CATEGORY-1 CATEGORY-2
 
         This is a blog that will record my thoughts on an upcoming Dungeon Crawl Classics (DCC) 
     tabletop role-playing game (TTRPG) sandbox-style megadungeon campaign set in the setting 
-    illustrated in [The Halls of Arden Vul](https://ardenvul.com/), published by Expeditious 
+    illustrated in <a href="https://ardenvul.com/">The Halls of Arden Vul</a>, published by Expeditious 
     Retreat Press.
     
         The goal of the campaign will be to run one mainly aligned with the principles set out in 
