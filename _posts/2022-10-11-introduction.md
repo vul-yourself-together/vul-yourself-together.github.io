@@ -7,7 +7,7 @@ categories: CATEGORY-1 CATEGORY-2
 
 ## Introduction
 
-        This is a blog that will record my thoughts on an upcoming Dungeon Crawl Classics (DCC) 
+        <p>This is a blog that will record my thoughts on an upcoming Dungeon Crawl Classics (DCC) 
     tabletop role-playing game (TTRPG) sandbox-style megadungeon campaign set in the setting 
     illustrated in <a href="https://ardenvul.com/">The Halls of Arden Vul</a>, published by Expeditious 
     Retreat Press.
@@ -57,5 +57,5 @@ categories: CATEGORY-1 CATEGORY-2
             8. There is no balance. Players may retreat if they wish.
             9. No cheating. I will not fudge anything, ever.
 
-        [Go to Session 1](https://jg-wentworth.github.io/2022/10/12/session-1.html)
+        [Go to Session 1](https://jg-wentworth.github.io/2022/10/12/session-1.html)</p>
 
