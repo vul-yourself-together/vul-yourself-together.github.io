@@ -5,18 +5,18 @@ categories: CATEGORY-1 CATEGORY-2
 
 ## Introduction
 
-    <p>    This is a blog that will record my thoughts on an upcoming Dungeon Crawl Classics (DCC) 
+        This is a blog that will record my thoughts on an upcoming Dungeon Crawl Classics (DCC) 
     tabletop role-playing game (TTRPG) sandbox-style megadungeon campaign set in the setting 
     illustrated in [The Halls of Arden Vul](https://ardenvul.com/), published by Expeditious 
-    Retreat Press.<br>
+    Retreat Press.
     
         The goal of the campaign will be to run one mainly aligned with the principles set out in 
     [Muster: A Primer for War](https://drive.google.com/file/d/1oghsNhYsCVZuPI_8Kd1gCs3AqcvPZHQ8/view),
     an "introduction to the particular ethos and technique of playing D&D as a wargame, a 
-    *kriegsspiel*.<br>
+    *kriegsspiel*.
 
         During the campaign, I, acting as the "Judge" (DM, GM, Referee), will attempt, hopefully 
-    with the assistance of the players, to abide by the Three Cornerstones as outlined in *Muster*:<br>
+    with the assistance of the players, to abide by the Three Cornerstones as outlined in *Muster*:
 
             1. Neutral Referee
                 *The Game Master is a referee; their task is to prepare a challenging scenario and 
@@ -40,10 +40,10 @@ categories: CATEGORY-1 CATEGORY-2
                 of simulating a reality, even a fantastic one, is always an aspiration and a 
                 compromise between gameability and insight. The game treads a golden mean to 
                 capture anything real while remaining fun and fluid. The right mechanical tools 
-                for the task depend on the group’s developing skills and interests.*<br>
+                for the task depend on the group’s developing skills and interests.*
     
         To facilitate the above, I have implemented the following game structure, also taken from 
-        *Muster*:<br>
+        *Muster*:
 
             1. Quick character generation through automated tables in Foundry VTT.
             2. No backstories. More than 2-sentence backstories are discouraged.
@@ -53,8 +53,7 @@ categories: CATEGORY-1 CATEGORY-2
             6. XP is goal-based, only granted for gold. 1gp = 1xp.
             7. XP is consistent and serious. It is respected as a sign of achievement. There will be no pity points.
             8. There is no balance. Players may retreat if they wish.
-            9. No cheating. I will not fudge anything, ever.<br>
+            9. No cheating. I will not fudge anything, ever.
 
-        [Go to Session 1](https://jg-wentworth.github.io/)
-    </p>
+        [Go to Session 1](https://jg-wentworth.github.io/2022/10/12/session-1.html)
 
