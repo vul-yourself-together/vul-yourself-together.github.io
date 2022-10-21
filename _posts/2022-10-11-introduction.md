@@ -8,7 +8,7 @@ Retreat Press.
 
 &nbsp;&nbsp;&nbsp;&nbsp;During the campaign, I, acting as the "Judge" (DM, GM, Referee), will attempt, hopefully with the assistance of the players, to abide by the Three Cornerstones as outlined in Muster:
 
-1. **Neutral Referee**
+&nbsp;&nbsp;&nbsp;&nbsp;1. **Neutral Referee**
 
 >The Game Master is a referee; their task is to prepare a challenging scenario and 
 conduct it fairly to whatever outcome. Teaching the rules, and adjudicating the 
@@ -17,7 +17,7 @@ not play favourites, they do not cheat the rules, and they will, ultimately, sha
 in the celebration or commiseration of the outcome. A referee who is not responsible
 for outcomes leaves room for the other players to have real agency.
 
-2. **Real Achievement**
+&nbsp;&nbsp;&nbsp;&nbsp;2. **Real Achievement**
 
 >This is a game of skill and daring, played against quantifiable adversity. It’s 
 not a theatrical show; you’re not playacting inside the Game Master’s planned 
@@ -26,7 +26,7 @@ depressing to face. But you learn from them, because they are real. Real
 achievement, real pride, real learning and real sportsmanship are only possible 
 when the game is real.
 
-3. **Simulation Rules**
+&nbsp;&nbsp;&nbsp;&nbsp;3. **Simulation Rules**
 
 >The game is a conflict simulation, its purpose to shed light to how things work; 
 teach reality, use reality. It is not a boardgame, conveniently self-enclosed 
