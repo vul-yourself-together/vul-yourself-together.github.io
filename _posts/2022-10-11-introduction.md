@@ -49,11 +49,3 @@ Muster:
 7. **XP is consistent and serious.** It is respected as a sign of achievement. There will be no pity points.
 8. **There is no balance.** Players may retreat if they wish.
 9. **No cheating. I will not fudge anything, ever.**
-
-
-[Go to Session 1](https://redan-luv.github.io/2022/10/12/session-1.html")
-
-
-
-
-
