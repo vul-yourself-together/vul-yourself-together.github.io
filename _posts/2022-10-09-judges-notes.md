@@ -50,16 +50,16 @@ session.
 ### Session 0
 
 &nbsp;&nbsp;&nbsp;&nbsp;We basically just rolled characters this session and introduced everyone 
-to the campaign structure and setting. BD and BG joined initially, with ML joining about an 
-hour and a half late. Sessions start at 18:30, and ML can only join at 19:30 at the earliest. I 
+to the campaign structure and setting. Brad and Bill joined initially, with Mark joining about an 
+hour and a half late. Sessions start at 18:30, and Mark can only join at 19:30 at the earliest. I 
 hope this won't be too much of a problem. Our stated policy of always playing, even with only one 
 player present (with the Judge or present players controlling the absent players' characters), will
-hopefully mitigate this. My goal is to try to play each week, no matter what, to build consistency 
-and momentum, and also allow the players to be able to rely on the game being played each week.
+hopefully mitigate this. My goal is to try to play each weEarl, no matter what, to build consistency 
+and momentum, and also allow the players to be able to rely on the game being played each weEarl.
 
 &nbsp;&nbsp;&nbsp;&nbsp;I currently have six players who have stated that they want to play in the 
-campaign: BG, BD, JP, ML, SM, and EK. EK said ahead of time that he would be absent the first 
-two sessions, and JP also said that he couldn't make session zero in advance. SM missed the first 
+campaign: Bill, Brad, Jake, Mark, Sam, and Earl. Earl said ahead of time that he would be absent the first 
+two sessions, and Jake also said that he couldn't make session zero in advance. Sam missed the first 
 session due to communication issues. As time goes on, if people keep missing sessions, I may need 
 to recruit more players. Possible options are KD, IG, or putting out advertisements on the 
 internet. I don't want to have to kick people out of the campaign, but maybe I won't have to. 
@@ -89,13 +89,24 @@ current path.
 ### Session 1
 
 &nbsp;&nbsp;&nbsp;&nbsp;This was a quick two-hour session due to attendance issues. We started 
-with only BG, BD, and JP, with SM joining about an hour late. Attendance is my main concern for the 
+with only Bill, Brad, and Jake, with Sam joining about an hour late. Attendance is my main concern for the 
 campaign's longevity at this point, but we shall see.
 
-&nbsp;&nbsp;&nbsp;&nbsp;During this session, we rolled a character for SM (Marcellus the Chaotic 
-Cleric) and played for a little bit. I asked SM what God he wanted to worship, and he said an 
-"evil" god, so we went with Atashak. This could set up some spiciness with JP's character Pif, who 
-worships the Lawful Goddess Demma! However, SM is new to TTRPG's, so maybe not.
+&nbsp;&nbsp;&nbsp;&nbsp;During this session, we rolled a character for Sam (Marcellus the Chaotic 
+Cleric) and played for a little bit. I asked Sam what God he wanted to worship, and he said an 
+"evil" god, so we went with Atashak. This could set up some spiciness with Jake's character Pif, who 
+worships the Lawful Goddess Demma! However, Sam is new to TTRPG's, so maybe not.
+
+Players and their characters:
+
+| Player      | Character   |
+| ----------- | ----------- |
+| Bill        | Spine       |
+| Brad        | Waldorf     |
+| Jake        | Pif         |
+| Mark        | Battista    |
+| Sam         | Marcellus   |
+| Earl        | NOT CREATED |
 
 &nbsp;&nbsp;&nbsp;&nbsp;During the session, someone asked "what's this thing" and pinged the Tower 
 of Scrutiny. I told them it was a four-story tower, and they got all excited and went straight for 
@@ -105,16 +116,16 @@ was quite worried for them.
 ### Session 2
 
 &nbsp;&nbsp;&nbsp;&nbsp;We finally had a session start at the planned time (well, almost, we 
-stalled for about half an hour as BG and JP wanted to grab food and drinks or something, 
-sheesh). We also waited for SM, who no-call-no-showed, unfortunately. I'm going to get his number 
-from BG and text him next time, I don't think he really knows how to use Discord. About an hour 
-and a half after starting, ML showed up. 
+stalled for about half an hour as Bill and Jake wanted to grab food and drinks or something, 
+sheesh). We also waited for Sam, who no-call-no-showed, unfortunately. I'm going to get his number 
+from Bill and text him next time, I don't think he really knows how to use Discord. About an hour 
+and a half after starting, Mark showed up. 
 
 Attendance so far as been [on time, (late), /absent/]: 
 
-Session 0: BD, BG, (ML), /JP/, /SM/, /EK/
-Session 1: BD, BG, JP, (SM), /ML/, /EK/
-Session 2: BD, BG, JP, (ML), /SM/, /EK/
+Session 0: Brad, Bill, (Mark), /Jake/, /Sam/, /Earl/
+Session 1: Brad, Bill, Jake, (Sam), /Mark/, /Earl/
+Session 2: Brad, Bill, Jake, (Mark), /Sam/, /Earl/
 
 &nbsp;&nbsp;&nbsp;&nbsp;The average, then, is 2-3 on-time, 1 late, and 2-3 absent out of 6 
 players. Not great, if you ask me. I will stay the course for now, but if our player count 
@@ -137,5 +148,5 @@ deadly 15HD assassin vine there. However, I made another mistake! When I read th
 thought that the vine had only 3 vine attacks per turn, when it's actually 24! I realized this in 
 the second round of combat, and so decided to just add three extra vines per turn. Two or more 
 members of the party likely would have died if I read the vine entry correctly. We ended the 
-session with 
+session with Basil, Marcellus, Spine, and Sarnai all ensnared, but a raging fire started by 
 
