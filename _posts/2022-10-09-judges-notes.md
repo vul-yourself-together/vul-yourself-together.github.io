@@ -133,3 +133,9 @@ cellar they already investigated.
 to either the Pyramid of Thoth or Level 1 (both relatively beginner-friendly areas), they seemed 
 to ignore those rumors and have no discussion of them and marched over to AV-29, the Palace Ruins.
 There, they quickly scaled the wall and went to the indoor garden level. They encountered the 
+deadly 15HD assassin vine there. However, I made another mistake! When I read the text, I somehow 
+thought that the vine had only 3 vine attacks per turn, when it's actually 24! I realized this in 
+the second round of combat, and so decided to just add three extra vines per turn. Two or more 
+members of the party likely would have died if I read the vine entry correctly. We ended the 
+session with 
+
