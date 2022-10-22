@@ -148,5 +148,7 @@ deadly 15HD assassin vine there. However, I made another mistake! When I read th
 thought that the vine had only 3 vine attacks per turn, when it's actually 24! I realized this in 
 the second round of combat, and so decided to just add three extra vines per turn. Two or more 
 members of the party likely would have died if I read the vine entry correctly. We ended the 
-session with Basil, Marcellus, Spine, and Sarnai all ensnared, but a raging fire started by 
+session with Basil, Marcellus, Spine, and Sarnai all ensnared, but a raging fire started by Pif 
+may, if the party is lucky, burn away 2-3 of the vines, leaving 2-3 that would need to be cut away 
+for everyone to escape. They're in trouble, but at least some of them will have a chance to escape!
 
