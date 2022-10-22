@@ -4,47 +4,47 @@ session.
 
 # BATTISTA, MARCELLUS, PIF, SPINE, WALDORF, AND OTHERS,
 # DO NOT READ THIS - SPOILERS AHEAD!
-
-
-
-
-
-
-
-
-
+/
+/
+/
+/
+/
+/
+/
+/
+/
 ...
-
-
-
-
-
-
-
-
-
+/
+/
+/
+/
+/
+/
+/
+/
+/
 ...
-
-
-
-
-
-
-
-
-
+/
+/
+/
+/
+/
+/
+/
+/
+/
 ...
-
+/
 # LAST CHANCE...
-
-
-
-
-
-
-
+/
+/
+/
+/
+/
+/
+/
 ...
-
+/
 ## Judge's Thoughts
 
 ### Session 0
@@ -123,9 +123,9 @@ and a half after starting, Mark showed up.
 
 Attendance so far as been [on time, (late), /absent/]: 
 
-Session 0: Brad, Bill, (Mark), /Jake/, /Sam/, /Earl/
-Session 1: Brad, Bill, Jake, (Sam), /Mark/, /Earl/
-Session 2: Brad, Bill, Jake, (Mark), /Sam/, /Earl/
+* Session 0: Brad, Bill, (Mark), /Jake/, /Sam/, /Earl/
+* Session 1: Brad, Bill, Jake, (Sam), /Mark/, /Earl/
+* Session 2: Brad, Bill, Jake, (Mark), /Sam/, /Earl/
 
 &nbsp;&nbsp;&nbsp;&nbsp;The average, then, is 2-3 on-time, 1 late, and 2-3 absent out of 6 
 players. Not great, if you ask me. I will stay the course for now, but if our player count 
