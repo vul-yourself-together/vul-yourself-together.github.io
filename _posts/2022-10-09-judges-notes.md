@@ -73,14 +73,14 @@ to the campaign structure and setting. Brad and Bill joined initially, with Mark
 hour and a half late. Sessions start at 18:30, and Mark can only join at 19:30 at the earliest. I 
 hope this won't be too much of a problem. Our stated policy of always playing, even with only one 
 player present (with the Judge or present players controlling the absent players' characters), will
-hopefully mitigate this. My goal is to try to play each weEarl, no matter what, to build consistency 
-and momentum, and also allow the players to be able to rely on the game being played each weEarl.
+hopefully mitigate this. My goal is to try to play each week, no matter what, to build consistency 
+and momentum, and also allow the players to be able to rely on the game being played each week.
 
 &nbsp;&nbsp;&nbsp;&nbsp;I currently have six players who have stated that they want to play in the 
 campaign: Bill, Brad, Jake, Mark, Sam, and Earl. Earl said ahead of time that he would be absent the first 
 two sessions, and Jake also said that he couldn't make session zero in advance. Sam missed the first 
 session due to communication issues. As time goes on, if people keep missing sessions, I may need 
-to recruit more players. Possible options are KD, IG, or putting out advertisements on the 
+to recruit more players. Possible options are Kevin, Ivan, or putting out advertisements on the 
 internet. I don't want to have to kick people out of the campaign, but maybe I won't have to. 
 Sometimes, players just slowly stop attending in campaigns where sessions are played without 
 full attendance.
