@@ -11,21 +11,26 @@ player's choice over the next week. Waldorf got one. I didn't like this because 
 a suboptimal choice, and also boring. I was playing Pif's character, and had him scout for a few 
 hirelings, just to show them how it would work, and that was the only reason why they were able 
 to hire the ill-fated Anaximander. Oh well, they are free to choose their path.
+
 &nbsp;&nbsp;&nbsp;&nbsp;Everet joined and rolled absolute rocks to get to 17 max HP. Incredible. I 
 think this will really help the party, as they can just have him soak damage in the front and heal 
 him if he goes down. Monsters in OSRIC (which is the game Arden Vul was written for) do not do 
 that much damage, and when I convert monsters to DCC NPC-sheets, I typically don't modify the 
 damage. I may need to revisit this, but I also don't want to be too heavy-handed of a DM. Also, 
 it is still pretty early in the campaign, and I do think some deaths will happen soon.
+
 &nbsp;&nbsp;&nbsp;&nbsp;Attendance was the best the campaign has had so far, with Bill, Brad, and 
 Earl all there initially, and Mark joining about half an hour late. Jake was out sick.
+
 &nbsp;&nbsp;&nbsp;&nbsp;The party was very unlucky with random encounter rolls today. Out of eight 
 random encounter rolls (requiring a 1 out of 6 to trigger one) during the journey to the ruins, I 
 rolled three, which has about a 10% chance of occurring. Pif got his arm permanently crippled by 
 a swarm of stirges. Hopefully Jake won't be mad about that (I doubt it).
+
 &nbsp;&nbsp;&nbsp;&nbsp;After the party reached the falls, they again had poor luck with random 
 encounters, with three random encounters that occurred in the 2 hours and 50 minutes (so, 8 rolls 
 total) they spent in the area after they arrived.
+
 &nbsp;&nbsp;&nbsp;&nbsp;In the encounter with Grimblegrom of the kobolds, I decided to just "yes, 
 and" Battista's negotiations. He told them he would return with gold in exchange for information, 
 which led to the kobolds (very reasonable) worry that they wouldn't return. At that point, Mark 
@@ -39,6 +44,7 @@ included in the book, so I decided that their base would support 20 combatants, 
 chief, and 20 non-combatant young and old (this roughly lines up with their entry in the OSRIC 
 rules book). The lack of strong numbers makes the kobolds one of the weakest groups in the area, 
 but the PC's have exactly zero allies now, and so more at this point certainly wouldn't hurt.
+
 &nbsp;&nbsp;&nbsp;&nbsp;Because the group decided to take an hour-long detour to butcher the 
 mountain lion (this only saved them about 1sp each, so I'm not sure it was worth it), they missed 
 the Canaii patrol's (my name for the Dog-men) retreat into their secret entrance. The group seems 
@@ -47,6 +53,7 @@ followed the Canaii in if they had the chance to. This may have been a bit dicey
 don't have that section of Level 3 mapped out yet in Foundry VTT. I rolled ahead of time to see if 
 they would find that secret door on their next few passes, and they failed, so that should buy me 
 at least a few more weeks to get it finished.
+
 &nbsp;&nbsp;&nbsp;&nbsp;As seems to be tradition so far, after the session I realized that there 
 were several rules I was either forgetting or mis-applying. Those are:
 
